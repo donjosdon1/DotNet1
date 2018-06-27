@@ -1,0 +1,37 @@
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\bin\Debug\TaskManager.Entities.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.pdb

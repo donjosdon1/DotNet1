@@ -1,0 +1,91 @@
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\donjo\Documents\CaseStudy\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Users\Admin\Documents\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.dll.config
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.WebApi.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.Entities.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.Entities.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.pdb
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\TaskManager.DataLayer.dll.config
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.dll
+C:\Users\Admin\Desktop\Joseph.Puthiamadathil(TaskManager CaseStudy)\TaskManager\DotNet\TaskManager.WebApi\obj\Debug\TaskManager.WebApi.pdb
